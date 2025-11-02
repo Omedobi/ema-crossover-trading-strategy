@@ -1,4 +1,4 @@
-![EMA Crossover Visualization](img/image-1.png)
+![EMA Crossover Visualization](/img/image-2.png)
 
 # 📊 Exponential Moving Average (EMA) Crossover Trading Strategy
 
@@ -80,7 +80,7 @@ Each EMA pair is backtested using three key metrics:
 Below is an example of EMA crossover signals plotted over historical prices.  
 Green ▲ markers indicate Buy signals, while red ▼ markers indicate Sell signals.
 
-![EMA Crossover Signals Example](img/image-2.png)
+![EMA Crossover Signals Example](/img/image-2.png)
 
 ---
 
